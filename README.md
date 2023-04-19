@@ -8,6 +8,7 @@ in the example below.
 
 ## Project links
 
+* [Video Walkthrough](https://youtu.be/1EGi-tHjMZo)
 * [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
 
 ## Task 1 - Author HTML

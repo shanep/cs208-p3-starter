@@ -1,6 +1,13 @@
-window.onload = loaded;
+let timerId = null;
 
+window.addEventListener("DOMContentLoaded", function() {
+   document.addEventListener("click", startAnimation);
+});
 
-function loaded() {
-    console.log('hello world!');
+function startAnimation(e) {
+   //TODO
+}
+
+function moveImage(x, y) {
+   //TODO
 }

@@ -47,7 +47,7 @@ JavaScript.
 
 * [setInterval()](https://developer.mozilla.org/en-US/docs/Web/API/setInterval)
 * [clearInterval()](https://developer.mozilla.org/en-US/docs/Web/API/clearInterval)
-* [querySelector()]([mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector))
+* [querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 
 You can determine the location of the image by getting the left and top values
 as shown below.

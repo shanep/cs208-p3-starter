@@ -98,5 +98,5 @@ document will show you how to accomplish this task.
 
 * The animation works as described.
 * All the instructor provided tests are passing
-* You have written at least 1 test of your own
+* (optional) You have written at least 1 test of your own
 * You have pushed your code to github for grading

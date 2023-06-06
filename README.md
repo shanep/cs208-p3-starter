@@ -79,27 +79,22 @@ let clickX = e.clientX;
 let clickY = e.clientY;
 ```
 
-## Task 3 - Complete the Retrospective
+## Task 3 - The details
+
+Your project must follow the the rules outlined below:
+
+* All images must be in the **img** dir
+* All javascript files must be in the **js** dir
+* Images must have a relative path (e.g. img/skull.png NOT /img/skull.png)
+* Javscript files must have a relative path (e.g. js/main.js NOT /js/main.js)
+
+## Task 4 - Complete the Retrospective
 
 Once you have completed all the tasks open the file **Retrospective.md** and
-complete each section that has a TODO label.
+complete each section that has a TODO label. Reference the grading rubric
+for details on how this will be graded.
 
-For the **Experience** section you need to detail your experience with this lab.
-
-* Were there any things that you struggled with?
-* Were there any parts of this lab that were unclear or poorly specified?
-* Were you able to get the entire project done?
-
-For the **Known issues or Bugs** section you need to detail any issues or bugs
-that you have in your code. For example maybe your code crashes randomly and you
-couldn't figure out why. If your code doesn't have any issues you can simply
-write NONE in this section.
-
-For the **Sources used** section you must detail any sources you used outside of
-the textbook or course website. If you write NONE in this section it is assumed
-that you didn't use google at all. Be safe CITE!
-
-## Task 4 - Add, Commit, Push your code
+## Task 5 - Add, Commit, Push your code
 
 Once you are finished you need to make sure that you have pushed all your code
 to GitHub for grading! The Video walk through linked in the beginning of this

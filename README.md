@@ -62,12 +62,13 @@ let imgY = parseInt(img.style.top);
 ```
 
 You can update the location of the image by updating the top and left CSS
-properties of the image.
+properties of the image. NOTE: You must move the image so it is **centered**
+on the mouse click. 
 
 ```JavaScript
 // Update image location
-img.style.left = imgX + "px";
-img.style.top = imgY + "px";
+img.style.left = centerX + "px";
+img.style.top = centerY + "px";
 ```
 
 You can get the mouse location as follows:

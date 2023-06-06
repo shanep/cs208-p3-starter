@@ -34,7 +34,7 @@ pixel in the direction of the given (x, y) coordinates.
 In the startAnimation() function you will need to stop any previous timers that
 were set so make sure and save the return value from setInterval(). After the if
 statement in startAnimation() that stops the timer (if necessary), start a new
-timer that calls moveImage(clickX, clickY) every 10 milliseconds. Save the timer
+timer that calls moveImage(x, y) every 10 milliseconds. Save the timer
 ID in a global variable.
 
 Finally, Add an if statement in moveImage() that stops the timer when the image
@@ -65,8 +65,17 @@ You can update the location of the image by updating the top and left CSS
 properties of the image.
 
 ```JavaScript
+// Update image location
 img.style.left = imgX + "px";
 img.style.top = imgY + "px";
+```
+
+You can get the mouse location as follows:
+
+```JavaScript
+// Get mouse coordinates
+let clickX = e.clientX;
+let clickY = e.clientY;
 ```
 
 ## Task 3 - Complete the Retrospective
